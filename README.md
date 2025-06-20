@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Привіт! 👋 Я Front-End розробник</h1>
 
-<!--
-**BogdanVituk/BogdanVituk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 React • Next • Redux Toolkit • Tailwind CSS  
+  <br>
+  🧠 Також трохи працюю з: Node.js • NestJS • Prisma • SQL
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Стек технологій
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764abc?style=flat&logo=redux)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+
+---
+
+### 🛠️ Pet-проєкти
+
+- 🎬 **Movie Booking App** – Fullstack-додаток (React + NestJS + Prisma)  
+  👉 [GitHub](https://github.com/yourusername/movie-app) | 🖼️ бронювання місць, сеанси, адміністрування
+
+- 🛒 **Online Store** – SPA з фільтрами, корзиною та авторизацією  
+  👉 [GitHub](https://github.com/yourusername/online-store)
+
+- ✅ **ToDo App** – drag & drop, localStorage  
+  👉 [GitHub](https://github.com/yourusername/todo-dnd)
+
+---
+
+### 📫 Контакти
+
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bogdanvituk445@gmail.com)
+
+---
