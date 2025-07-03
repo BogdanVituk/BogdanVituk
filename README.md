@@ -24,10 +24,10 @@
 ### 🛠️ Pet-проєкти
 
 - 🎬 **Movie Booking App** – Fullstack-додаток (React + NestJS + Prisma)  
-  👉 [GitHub]([https://github.com/yourusername/movie-app](https://github.com/BogdanVituk/Movie-Reserv-App-Client-)) | 🖼️ бронювання місць, сеанси, адміністрування
+  👉 [GitHub](https://github.com/BogdanVituk/Movie-Reserv-App-Client-) | 🖼️ бронювання місць, сеанси, адміністрування
 
 - 🛒 **Online Store** – SPA з фільтрами, корзиною та авторизацією  
-  👉 [GitHub]([https://github.com/yourusername/online-store](https://github.com/BogdanVituk/ecommerce-client))
+  👉 [GitHub](https://github.com/BogdanVituk/ecommerce-client)
 ---
 
 ### 📫 Контакти
