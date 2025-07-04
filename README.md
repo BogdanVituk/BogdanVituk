@@ -1,7 +1,7 @@
 <h1 align="center">Привіт! 👋 Я Front-End розробник</h1>
 
 <p align="center">
-  🚀 React • Next • Redux Toolkit • Tailwind CSS  
+  🚀 JS/TS • React • Next • Redux Toolkit • Tailwind CSS  
   <br>
   🧠 Також трохи працюю з: Node.js • NestJS • Prisma • SQL
 </p>
@@ -23,11 +23,14 @@
 
 ### 🛠️ Pet-проєкти
 
+- 🛒 **Online Store** – SPA з фільтрами, корзиною та авторизацією  
+  👉 [GitHub](https://github.com/BogdanVituk/ecommerce-client)
+
 - 🎬 **Movie Booking App** – Fullstack-додаток (React + NestJS + Prisma)  
   👉 [GitHub](https://github.com/BogdanVituk/Movie-Reserv-App-Client-) | 🖼️ бронювання місць, сеанси, адміністрування
 
-- 🛒 **Online Store** – SPA з фільтрами, корзиною та авторизацією  
-  👉 [GitHub](https://github.com/BogdanVituk/ecommerce-client)
+- **Movies-App-Client** – застосунок для перегляду інформації про фільми  
+  👉 [GitHub](https://github.com/BogdanVituk/Movies-App-Client)
 ---
 
 ### 📫 Контакти
